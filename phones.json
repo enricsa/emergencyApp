@@ -1,47 +1,74 @@
 {
-   "location":"Tour Manhattan",
-   "main_number":{
-      "title":"Apel d’Urgence",
-      "number":"01 47 73 10 00",
-      "icon":""
-   },
-   "axa_numbers":[
-      {
-         "title":"My IT Support",
-         "number":"01 40 82 15 66",
-         "icon":"IT"
+  "location": {
+    "fr": "Tour Manhattan",
+    "en": "Manhattan Tower"
+  },
+  "main_number": {
+    "title": {
+      "fr": "Appel d’Urgence",
+      "en": "Emergency Call"
+    },
+    "number": "01 47 73 10 00",
+    "icon": ""
+  },
+  "axa_numbers": [
+    {
+      "title": {
+        "fr": "My IT Support",
+        "en": "My IT Support"
       },
-      {
-         "title":"Accueil 21",
-         "number":"01 58 58 32 00",
-         "icon":"accueil"
-      }
-   ],
-   "other_numbers":[
-      {
-         "title":"Police",
-         "number":"17",
-         "icon":"police-cap"
+      "number": "01 40 82 15 66",
+      "icon": "IT"
+    },
+    {
+      "title": {
+        "fr": "Accueil 21",
+        "en": "Accueil 21"
       },
-      {
-         "title":"Pompiers",
-         "number":"18",
-         "icon":"siren"
+      "number": "01 58 58 32 00",
+      "icon": "accueil"
+    }
+  ],
+  "other_numbers": [
+    {
+      "title": {
+        "fr": "Police",
+        "en": "Police"
       },
-      {
-         "title":"S.A.M.U.",
-         "number":"15",
-         "icon":"samu"
+      "number": "17",
+      "icon": "police-cap"
+    },
+    {
+      "title": {
+        "fr": "Pompiers",
+        "en": "Pompiers"
       },
-      {
-         "title":"Urgence Européen",
-         "number":"112",
-         "icon":"emergency"
+      "number": "18",
+      "icon": "siren"
+    },
+    {
+      "title": {
+        "fr": "S.A.M.U.",
+        "en": "S.A.M.U."
       },
-      {
-         "title":"S.O.S. Médecins",
-         "number":"08 20 33 24 24",
-         "icon":"sos"
-      }
-   ]
+      "number": "15",
+      "icon": "samu"
+    },
+    {
+      "title": {
+        "fr": "Urgence Européen",
+        "en": "Urgence Européen"
+      },
+      "number": "112",
+      "icon": "emergency"
+    },
+    {
+      "title": {
+        "fr": "S.O.S. Médecins",
+        "en": "S.O.S. Médecins"
+      },
+      "number": "08 20 33 24 24",
+      "icon": "sos"
+    }
+  ]
 }
