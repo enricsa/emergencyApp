@@ -1,0 +1,339 @@
+{
+   "strings":{
+      "en":{
+         "homescreen_nav_title":"Emergency App",
+         "explanation_homescreen":"Prevent the Central Security Unity of the tower",
+         "see_all_phones":"Useful Numbers",
+         "emergency_button":"Call Central Security Unit",
+         "connection_error":"Please connect to the internet to update numbers",
+         "call_cell_button":"call",
+         "internal_phones":"Internal",
+         "external_phones":"External",
+         "phone_list_nav_title":"Phones List",
+         "country_list_nav_title":"Select Your Country",
+         "loading_title":"LOADING",
+         "loading_text":"We are updating your phone list, please be patient…",
+         "location_france":"France",
+         "location_spain":"Spain",
+         "location_portugal":"Portugal"
+      },
+      "pt":{
+         "homescreen_nav_title":"Aplicação de Emergência",
+         "explanation_homescreen":"Prevenir a equipa de segurança do edíficio",
+         "see_all_phones":"Números Úteis",
+         "emergency_button":"Chamar Equipa de Segurança",
+         "connection_error":"Ligar à Internet para atualizar os contactos",
+         "call_cell_button":"Ligar",
+         "internal_phones":"Intermos",
+         "external_phones":"Externos",
+         "phone_list_nav_title":"Lista de telefones",
+         "country_list_nav_title":"Seleccione o seu país",
+         "loading_title":"A CARREGAR",
+         "loading_text":"Estamos a atualizar a lista de contactos, por favor aguarde ...",
+         "location_france":"França",
+         "location_spain":"Espanha",
+         "location_portugal":"Portugal"
+      },
+      "fr":{
+         "homescreen_nav_title":"PC Sécurité",
+         "explanation_homescreen":"Prévenez le PC Sécurité de la tour",
+         "see_all_phones":"Répertoire utile Manhattan",
+         "emergency_button":"Appelez PC Sécurité",
+         "connection_error":"Connectez-vous à Internet pour mettre à jour les numéros",
+         "call_cell_button":"appel",
+         "internal_phones":"Internes",
+         "external_phones":"Externes",
+         "phone_list_nav_title":"Liste des téléphones",
+         "country_list_nav_title":"Sélectionnez Votre Pays",
+         "loading_title":"CHARGEMENT",
+         "loading_text":"Nous mettons à jour votre liste de téléphone, soyez patient ...",
+         "location_france":"France",
+         "location_spain":"Espagne",
+         "location_portugal":"Portugal"
+      }
+   },
+   "phones":{
+      "France":{
+         "main_number":{
+            "title":{
+               "fr":"Appel d’Urgence",
+               "pt":"Chamada de Urgência - Segurança Edifício",
+               "en":"Emergency Call"
+            },
+            "number":"+33 1 47 73 10 00",
+            "icon":""
+         },
+         "axa_numbers":[
+            {
+               "title":{
+                  "fr":"My IT Support",
+                  "pt":"Helpdesk",
+                  "en":"My IT Support"
+               },
+               "number":"+33 1 40 82 15 66",
+               "icon":"IT"
+            },
+            {
+               "title":{
+                  "fr":"Accueil 21",
+                  "pt":"Recepção",
+                  "en":"Reception"
+               },
+               "number":"+33 1 58 58 32 00",
+               "icon":"accueil"
+            }
+         ],
+         "other_numbers":[
+            {
+               "title":{
+                  "fr":"Police",
+                  "pt":"Polícia",
+                  "en":"Police"
+               },
+               "number":"17",
+               "icon":"police-cap"
+            },
+            {
+               "title":{
+                  "fr":"Pompiers",
+                  "pt":"Bombeiros",
+                  "en":"Firefighters"
+               },
+               "number":"18",
+               "icon":"siren"
+            },
+            {
+               "title":{
+                  "fr":"S.A.M.U.",
+                  "pt":"S.A.M.U.",
+                  "en":"S.A.M.U."
+               },
+               "number":"15",
+               "icon":"samu"
+            },
+            {
+               "title":{
+                  "fr":"Urgence Européen",
+                  "pt":"Número Europeu de Emergência",
+                  "en":"Emergency Number"
+               },
+               "number":"112",
+               "icon":"emergency"
+            },
+            {
+               "title":{
+                  "fr":"S.O.S. Médecins",
+                  "pt":"Médicos S.O.S.",
+                  "en":"S.O.S. Doctors"
+               },
+               "number":"+33 8 20 33 24 24",
+               "icon":"sos"
+            }
+         ]
+      },
+      "Portugal":{
+         "main_number":{
+            "title":{
+               "fr":"Appel d’Urgence",
+               "pt":"Chamada de Urgência - Segurança Edifício",
+               "en":"Emergency Call"
+            },
+            "number":"+351 21 854 80 38",
+            "icon":""
+         },
+         "axa_numbers":[
+            {
+               "title":{
+                  "fr":"My IT Support",
+                  "pt":"Helpdesk",
+                  "en":"My IT Support"
+               },
+               "number":"+351 21 854 78 94",
+               "icon":"IT"
+            },
+            {
+               "title":{
+                  "fr":"Accueil 21",
+                  "pt":"Recepção",
+                  "en":"Reception"
+               },
+               "number":"+351 21 854 80 37",
+               "icon":"accueil"
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - Général",
+                  "pt":"AXA GS PT - Geral",
+                  "en":"AXA GS PT - General"
+               },
+               "number":"+351 21 854 78 00",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - Procurement & Office Manager",
+                  "pt":"AXA GS PT - Procurement & Office Manager",
+                  "en":"AXA GS PT - Procurement & Office Manager"
+               },
+               "number":"+351 96 852 03 44",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - Chief Security Officer",
+                  "pt":"AXA GS PT - Chief Security Officer",
+                  "en":"AXA GS PT - Chief Security Officer"
+               },
+               "number":"+351 93 789 16 69 ",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - Security Officer",
+                  "pt":"AXA GS PT - Security Officer",
+                  "en":"AXA GS PT - Security Officer"
+               },
+               "number":"+351 96 176 79 89",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - HR & IC",
+                  "pt":"AXA GS PT - HR & IC",
+                  "en":"AXA GS PT - HR & IC"
+               },
+               "number":"+351 21 854 77 62",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"AXA GS PT - Finance",
+                  "pt":"AXA GS PT - Finance",
+                  "en":"AXA GS PT - Finance"
+               },
+               "number":"+351 21 854 77 88",
+               "icon":""
+            }
+         ],
+         "other_numbers":[
+            {
+               "title":{
+                  "fr":"Urgence Européen",
+                  "pt":"Número Europeu de Emergência",
+                  "en":"Emergency Number"
+               },
+               "number":"112",
+               "icon":"emergency"
+            },
+            {
+               "title":{
+                  "fr":"Santé 24",
+                  "pt":"Saúde 24",
+                  "en":"Health 24"
+               },
+               "number":"808 24 24 24",
+               "icon":"sos"
+            },
+            {
+               "title":{
+                  "fr":"Santa Maria Hôpital",
+                  "pt":"Hospital de Santa Maria",
+                  "en":"Santa Maria Hôpital"
+               },
+               "number":"+351 21 780 50 00",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"CUF Descobertas Hôpital",
+                  "pt":"Hospital CUF Descobertas",
+                  "en":"CUF Descobertas Hospital"
+               },
+               "number":"+351 21 002 52 00",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Centre de Santé Olivais ",
+                  "pt":"Centro de Saúde Olivais",
+                  "en":"Olivais Health Center"
+               },
+               "number":"+351 21 850 70 00",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Pompiers",
+                  "pt":"Bombeiros Voluntários Moscavide e Portela",
+                  "en":"Firefighter Station Moscavide and Portela"
+               },
+               "number":"+351 21 945 86 40",
+               "icon":"siren"
+            },
+            {
+               "title":{
+                  "fr":"Police",
+                  "pt":"PSP - Comando Metropolitano Moscavide",
+                  "en":"Police - Moscavide"
+               },
+               "number":"+351 21 765 42 42",
+               "icon":"police-cap"
+            },
+            {
+               "title":{
+                  "fr":"Commandement des opérations de secours du district de Lisbonne",
+                  "pt":"Comando Distrital de Operações de Socorro de Lisboa",
+                  "en":"District Relief Operations Command of Lisbon"
+               },
+               "number":"+351 21 882 09 60",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Taxi",
+                  "pt":"Táxis - Rádio táxis Lisboa",
+                  "en":"Taxi"
+               },
+               "number":"+351 21 811 90 00",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"MEDIS - Assurance Santé",
+                  "pt":"MEDIS - Seguro de Saúde",
+                  "en":"MEDIS - Health Insurance"
+               },
+               "number":"+351 21 845 88 90",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Geostar (du PT)",
+                  "pt":"Geostar (de PT)",
+                  "en":"Geostar (from PT)"
+               },
+               "number":"707 24 14 14",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Geostar (des autres pays)",
+                  "pt":"Geostar (do estrangeiro)",
+                  "en":"Geostar (from other countries)"
+               },
+               "number":"+351 21 157 20 10",
+               "icon":""
+            },
+            {
+               "title":{
+                  "fr":"Groupe 8 - Société de Sécurité",
+                  "pt":"Grupo 8 - empresa de segurança",
+                  "en":"Grupo 8 - Security company"
+               },
+               "number":"+351 21 843 28 00",
+               "icon":""
+            }
+         ]
+      }
+   }
+}
